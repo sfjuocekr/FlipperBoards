@@ -681,7 +681,7 @@
     )
     (pin "1" (uuid 672caafa-9856-409d-b565-7eede3321d6a))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR09") (unit 1)
         )
@@ -706,7 +706,7 @@
     )
     (pin "1" (uuid c9763a31-e21c-418e-b3f7-435117269568))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR010") (unit 1)
         )
@@ -731,7 +731,7 @@
     )
     (pin "1" (uuid f5e89724-cbab-4363-875d-b50ac2755605))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR04") (unit 1)
         )
@@ -760,7 +760,7 @@
     (pin "4" (uuid f9ed8f69-4054-4c3b-961d-3e537a5857ce))
     (pin "5" (uuid f88010c5-df50-4d59-b5c0-7cfb5b5fd965))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "GPS1") (unit 1)
         )
@@ -785,7 +785,7 @@
     )
     (pin "1" (uuid da2be052-2fff-478a-8020-f3cf7cf0bef6))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR012") (unit 1)
         )
@@ -810,7 +810,7 @@
     )
     (pin "1" (uuid 98e24f94-1e96-4492-aac5-ef0295c7150d))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR02") (unit 1)
         )
@@ -835,7 +835,7 @@
     )
     (pin "1" (uuid 5c36f03e-263d-441c-89d3-27a94a29e7cd))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR013") (unit 1)
         )
@@ -861,7 +861,7 @@
     (pin "1" (uuid b90030a9-2164-4e16-9a71-588862cba51c))
     (pin "2" (uuid 44c10453-f080-4657-82b9-d1006ef71003))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "C2") (unit 1)
         )
@@ -903,7 +903,7 @@
     (pin "8" (uuid 9b4e2b59-f440-4f6d-b9e2-aa80b81f2360))
     (pin "9" (uuid 87356f18-e095-46dd-a8ae-4f7b4cd12296))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "FZ1") (unit 1)
         )
@@ -928,7 +928,7 @@
     )
     (pin "1" (uuid 47207e53-68c2-4aff-b976-59f388b1c580))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR08") (unit 1)
         )
@@ -960,7 +960,7 @@
     (pin "7" (uuid aa7da108-f2b2-422a-a6a3-f15c5946006a))
     (pin "8" (uuid a863895e-d11a-4873-807b-b8bd37f32884))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "CC1101") (unit 1)
         )
@@ -985,7 +985,7 @@
     )
     (pin "1" (uuid 1056acf0-080d-4bac-afb3-83b663498708))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR01") (unit 1)
         )
@@ -1010,7 +1010,7 @@
     )
     (pin "1" (uuid 298282e7-ae59-404e-b6ff-152e95cd2d01))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR05") (unit 1)
         )
@@ -1035,7 +1035,7 @@
     )
     (pin "1" (uuid d4c66e0a-5527-411f-a7d2-96b21c599db5))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR06") (unit 1)
         )
@@ -1060,7 +1060,7 @@
     )
     (pin "1" (uuid 1721f81c-8b17-4b89-b817-ccd982cde4a7))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR07") (unit 1)
         )
@@ -1085,7 +1085,7 @@
     )
     (pin "1" (uuid 9273a108-8798-4fc2-9dcf-afba3abe1853))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR03") (unit 1)
         )
@@ -1110,7 +1110,7 @@
     )
     (pin "1" (uuid 3bdcb872-13ef-4472-9be6-9a02af236ba8))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "#PWR011") (unit 1)
         )
@@ -1142,7 +1142,7 @@
     (pin "7" (uuid 56bc4f2d-5d50-4c1b-89d0-e38a6c701176))
     (pin "8" (uuid f7be5b04-e6ad-4b73-a99f-5b719125d7e2))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "nRF24") (unit 1)
         )
@@ -1168,7 +1168,7 @@
     (pin "1" (uuid 2a7ff497-5265-4bd6-b7f1-6e9dd2712256))
     (pin "2" (uuid 56998d9d-4681-493a-af86-077af2572098))
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc"
           (reference "C1") (unit 1)
         )
@@ -1207,7 +1207,7 @@
       (uuid 33e6a9f3-66b0-4a9c-bdf6-22a5afdfb4d6)
     )
     (instances
-      (project "FlipperBoard"
+      (project "QuadBoard"
         (path "/f483bd80-f513-42f8-b0e7-8ed9a36559bc" (page "2"))
       )
     )
