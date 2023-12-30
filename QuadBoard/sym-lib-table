@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FlipperLibrary")(type "KiCad")(uri "${KIPRJMOD}/FlipperLibrary.kicad_sym")(options "")(descr ""))
+)
