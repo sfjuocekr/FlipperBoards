@@ -1,9 +1,0 @@
-﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
-165.1,-65.405,0.0,top,C1,,C_Disc_D6.0mm_W2.5mm_P5.00mm,0.1uF,tht,True
-161.925,-65.405,180.0,top,C2,,C_Radial_D4.0mm_H7.0mm_P1.50mm,10uF,tht,True
-181.61,-73.66,180.0,top,CC1101,,C1101,~,tht,True
-165.1,-60.73,180.0,top,FZ1,,FZ,~,tht,True
-164.465,-69.85,90.0,bottom,GPS1,,GPS,~,tht,True
-190.5,-88.9,0.0,top,J1,,PinHeader_1x06_P2.54mm_Vertical,Conn_01x06_Pin,tht,True
-134.66792,-106.68,90.0,top,U1,,ESP32-S3-DevKitC,ESP32-S3-DevKitC,tht,True
-146.685,-74.295,0.0,top,nRF24,,nRF24,~,tht,True

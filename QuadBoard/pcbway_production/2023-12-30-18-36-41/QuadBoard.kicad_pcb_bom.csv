@@ -1,9 +1,0 @@
-﻿designator,quantity,value,pack,mpn,mount_type
-C1,1,0.1uF,C_Disc_D6.0mm_W2.5mm_P5.00mm,,tht
-C2,1,10uF,C_Radial_D4.0mm_H7.0mm_P1.50mm,,tht
-CC1101,1,~,C1101,,tht
-FZ1,1,~,FZ,,tht
-GPS1,1,~,GPS,,tht
-J1,1,Conn_01x06_Pin,PinHeader_1x06_P2.54mm_Vertical,,tht
-U1,1,ESP32-S3-DevKitC,ESP32-S3-DevKitC,,tht
-nRF24,1,~,nRF24,,tht
